@@ -8,8 +8,8 @@
             "location": "Meow Town",
             "date": "January 28, 2022",
             "time": "12:00",
-            "petsAllowed": true,
-            "organizer": "Kat Lay"},
+            "organizer": "Kat Lay"
+        },
         {
             "id": 5928101,
             "category": "animal welfare",
@@ -18,8 +18,8 @@
             "location": "Meow Town",
             "date": "January 28, 2022",
             "time": "12:00",
-            "petsAllowed": true,
-            "organizer": "Kat Lay"},
+            "organizer": "Kat Lay"
+        },
         {
             "id": 5928101,
             "category": "animal welfare",
@@ -28,7 +28,7 @@
             "location": "Meow Town",
             "date": "January 28, 2022",
             "time": "12:00",
-            "petsAllowed": true,
-            "organizer": "Kat Lay"}
+            "organizer": "Kat Lay"
+        }
     ]
 }
