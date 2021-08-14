@@ -1,34 +1,34 @@
 {
-    "events": [
-        {
-            "id": 5928101,
-            "category": "animal welfare",
-            "title": "Cat Adoption Day",
-            "discription": "Find your new feling friend at this event",
-            "location": "Meow Town",
-            "date": "January 28, 2022",
-            "time": "12:00",
-            "organizer": "Kat Lay"
-        },
-        {
-            "id": 5928101,
-            "category": "animal welfare",
-            "title": "Cat Adoption Day",
-            "discription": "Find your new feling friend at this event",
-            "location": "Meow Town",
-            "date": "January 28, 2022",
-            "time": "12:00",
-            "organizer": "Kat Lay"
-        },
-        {
-            "id": 5928101,
-            "category": "animal welfare",
-            "title": "Cat Adoption Day",
-            "discription": "Find your new feling friend at this event",
-            "location": "Meow Town",
-            "date": "January 28, 2022",
-            "time": "12:00",
-            "organizer": "Kat Lay"
-        }
-    ]
+	"events": [{
+			"id": 5928101,
+			"category": "animal welfare",
+			"title": "Cat Adoption Day",
+			"discription": "Find your new feling friend at this event",
+			"location": "Meow Town",
+			"date": "January 28, 2022",
+			"time": "12:00",
+			"organizer": "Kat Lay"
+		},
+		{
+			"id": 5928101,
+			"category": "animal welfare",
+			"title": "Cat Adoption Day",
+			"discription": "Find your new feling friend at this event",
+			"location": "Meow Town",
+			"date": "January 28, 2022",
+			"time": "12:00",
+			"organizer": "Kat Lay"
+		},
+
+		{
+			"id": 5928101,
+			"category": "animal welfare",
+			"title": "Cat Adoption Day",
+			"discription": "Find your new feling friend at this event",
+			"location": "Meow Town",
+			"date": "January 28, 2022",
+			"time": "12:00",
+			"organizer": "Kat Lay"
+		}
+	]
 }
